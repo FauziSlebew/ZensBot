@@ -16,11 +16,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62895604670507']
-global.ownernomer = "62895604670507"
-global.premium = ['62895604670507','6281328144300']
-global.packname = 'Dibuat Oleh 𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙'
-global.author = 'Wa:+62 878-3770-3726\nIG:fauzibeban__'
+global.owner = ['19782905662']
+global.ownernomer = "19782905662"
+global.premium = ['6287837703726','19782905662']
+global.packname = 'Dibuat Oleh FauziBotz-Md'
+global.author = 'Wa:+6287837703726\nIG:fauzibeban__'
 global.sessionName = 'zenss'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
