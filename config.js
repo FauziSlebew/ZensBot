@@ -20,7 +20,7 @@ global.owner = ['19782905662']
 global.ownernomer = "19782905662"
 global.premium = ['6287837703726','19782905662']
 global.packname = 'Dibuat Oleh ©⏤͟͟͞𝙁𝙖𝙪𝙯𝙞𝑩𝑶𝑻𝒁'
-global.author = 'Wa:+6287837703726\nIG:fauzibeban__'
+global.author = 'Wa:6287837703726\nIG:fauzibeban__'
 global.sessionName = 'zenss'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
@@ -33,7 +33,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: '[❗] SEDANG DIPROSES',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
